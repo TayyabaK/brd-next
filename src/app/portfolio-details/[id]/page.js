@@ -8,22 +8,11 @@ export async function generateStaticParams() {
   }));
 }
 
-export async function getStaticProps({ params }) {
-  const portfolioId = parseInt(params.id, 10);
+const PortfolioDetails = ({ params }) => {
+  const { id } = params;
+  const portfolioId = parseInt(id, 10);
   const data = PortfolioData.find((portfolio) => portfolio.id === portfolioId);
 
-  if (!data) {
-    return {
-      notFound: true,
-    };
-  }
-
-  return {
-    props: { data },
-  };
-}
-
-const PortfolioDetails = ({ data }) => {
   if (!data) {
     return <div>Page not found</div>;
   }
