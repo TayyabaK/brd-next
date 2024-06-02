@@ -1,6 +1,6 @@
 import PortfolioData from "@/app/data/PortfolioData.json";
 import ClientComponent from "./ClientComponent";
-import Layout from "@/components/brdLayout/brdLayout"; // Adjusted import
+import Layout from "@/app/brdLayout/brdLayout"; // Adjusted import
 
 export async function generateStaticParams() {
   return PortfolioData.map((portfolio) => ({
