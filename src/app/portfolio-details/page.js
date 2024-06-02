@@ -1,7 +1,7 @@
 import PortfolioDetailsContent from "@/elements/portfolio2/PortfolioDetailsContent";
 import PortfolioData from "@/app/data/PortfolioData.json";
 import Head from 'next/head';
-import Layout from "../brdLayout/brdLayout"; // Adjusted import
+import Layout from "@/components/brdLayout/brdLayout"; // Adjusted import
 
 const PortfolioDetails = ({ params }) => {
     const { id } = params;
