@@ -88,40 +88,64 @@ const TestimonialThree = ({ teamStyle }) => {
           {TestimonialData.map((data, index) => (
             <div key={index} className={`testimonial-style-two ${teamStyle}`}>
               <div className="row align-items-center justify-content-center row--20">
-                <div className="col-lg-8 col-md-10">
-                  <div className="content text-center p-4" style={{ 
-                    position: "relative",
-                    border: "1px solid #0b2530", 
-                    borderRadius: "10px", 
-                    background: "linear-gradient(135deg, #0b2530 0%, #1c3a5b 100%)" 
-                  }}>
-                    <img 
-                      src="/images/testimonial/opening.png" 
-                      alt="Opening quotation mark" 
-                      style={{ 
-                        position: "absolute", 
-                        top: "10px", 
-                        left: "10px", 
-                        width: "40px", 
-                        height: "40px" 
-                      }} 
+                <div className="col-lg-10 col-md-12">
+                  <div
+                    className="content text-center p-4"
+                    style={{
+                      position: "relative",
+                      border: "1px solid #1e1e1e",
+                      borderRadius: "10px",
+                      background:
+                        "linear-gradient(135deg, #1e1e1e 0%, #0598f7 100%)",
+                    }}
+                  >
+                    <img
+                      src="/images/testimonial/opening.png"
+                      alt="Opening quotation mark"
+                      style={{
+                        position: "absolute",
+                        top: "10px",
+                        left: "10px",
+                        width: "40px",
+                        height: "40px",
+                      }}
                     />
-                    <span className="form font-weight-bold" style={{ fontSize: "4rem", lineHeight: "1.6" }}>{data.form}</span>
-                    <p className="description mt-2 mb-3" style={{ fontSize: "3rem", lineHeight: "1.6" }}>{data.description}</p>
+                    <span
+                      className="form font-weight-bold"
+                      style={{ fontSize: "4rem", lineHeight: "1.6" }}
+                    >
+                      {data.form}
+                    </span>
+                    <p
+                      className="description mt-2 mb-3"
+                      style={{ fontSize: "3rem", lineHeight: "1.6" }}
+                    >
+                      {data.description}
+                    </p>
                     <div className="client-info">
-                      <h4 className="title" style={{ fontSize: "3rem", fontWeight: "bold" }}>{data.name}</h4>
-                      <h6 className="subtitle" style={{ fontSize: "2rem", fontWeight: "bold" }}>{data.subtitle}</h6>
+                      <h4
+                        className="title"
+                        style={{ fontSize: "3rem", fontWeight: "bold" }}
+                      >
+                        {data.name}
+                      </h4>
+                      <h6
+                        className="subtitle"
+                        style={{ fontSize: "2rem", fontWeight: "bold" }}
+                      >
+                        {data.subtitle}
+                      </h6>
                     </div>
-                    <img 
-                      src="/images/testimonial/closing.png" 
-                      alt="Closing quotation mark" 
-                      style={{ 
-                        position: "absolute", 
-                        bottom: "10px", 
-                        right: "10px", 
-                        width: "40px", 
-                        height: "40px" 
-                      }} 
+                    <img
+                      src="/images/testimonial/closing.png"
+                      alt="Closing quotation mark"
+                      style={{
+                        position: "absolute",
+                        bottom: "10px",
+                        right: "10px",
+                        width: "40px",
+                        height: "40px",
+                      }}
                     />
                   </div>
                 </div>
