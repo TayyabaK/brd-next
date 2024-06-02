@@ -1,0 +1,16 @@
+/* css for  floating telegram action button */
+.LinkTelegram {
+  position: fixed;
+  bottom: 110px;
+  left: 2rem;
+  z-index: 100;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: #0088cc;
+  color: #fff;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  cursor: pointer;
+  animation-direction: alternate-reverse !important;
+  animation: zoom 1s infinite;
+}

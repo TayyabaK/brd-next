@@ -1,0 +1,3 @@
+.chatbox_class > div {
+    overflow-y: scroll;
+}

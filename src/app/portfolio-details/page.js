@@ -1,0 +1,41 @@
+'use client'
+// import React from 'react';
+import PortfolioDetailsContent from "@/elements/portfolio2/PortfolioDetailsContent";
+import PortfolioData from "@/app/data/PortfolioData.json";
+// import SEO from "../common/SEO";
+import Head from 'next/head';
+import Layout from "../brdLayout/brdLayout";
+import { usePathname, useSearchParams } from "next/navigation";
+
+//ISSUE
+
+const PortfolioDetails = (
+//     {match: {params: {id}}
+// } 
+) => {
+    const pathname = usePathname();
+    const searchParams = useSearchParams();
+    const id = searchParams.get('id');
+
+    if (!id) {
+        return <div>Loading...</div>;
+    }
+
+
+    const portfolioId = parseInt(id, 10)
+    const data = PortfolioData.filter(portfolio => portfolio.id === portfolioId);
+    return (
+        <>
+            {/* <SEO title="Portfolio Details || Doob" /> */}
+            <Head>
+                <title>Creative Portfolio || Button R Digitech</title>
+            </Head>
+            <Layout>
+            
+                <PortfolioDetailsContent data={data[0]} />
+                </Layout>
+        </>
+    )
+}
+
+export default PortfolioDetails;
