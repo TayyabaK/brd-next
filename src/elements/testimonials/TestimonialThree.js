@@ -146,7 +146,7 @@ const TestimonialThree = ({ teamStyle }) => {
                     <div className="card-footer flex items-center justify-center">
                       <h4
                         className="title text-center"
-                        style={{ fontSize: "3rem", fontWeight: "bold" }}
+                        style={{ fontSize: "2rem", fontWeight: "bold" }}
                       >
                         {data.name}
                       </h4>
