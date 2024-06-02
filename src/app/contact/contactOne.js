@@ -1,3 +1,4 @@
+"use client";
 import ContactForm from "./ContactForm";
 // import GoogleMapStyle from "./GoogleMapStyle";
 import { FiHeadphones, FiMail, FiMapPin } from "react-icons/fi";
