@@ -1,11 +1,11 @@
 'use client'
-// import React from 'react';
-import PortfolioDetailsContent from "@/elements/portfolio2/PortfolioDetailsContent";
-import PortfolioData from "@/app/data/PortfolioData.json";
-// import SEO from "../common/SEO";
-import Head from 'next/head';
-import Layout from "../brdLayout/brdLayout";
-import { usePathname, useSearchParams } from "next/navigation";
+
+// import PortfolioDetailsContent from "@/elements/portfolio2/PortfolioDetailsContent";
+// import PortfolioData from "@/app/data/PortfolioData.json";
+
+// import Head from 'next/head';
+// import Layout from "../brdLayout/brdLayout";
+// import { usePathname, useSearchParams } from "next/navigation";
 
 //ISSUE (WHEN OPENING A PAGE with id . it is showing page not found  ) /portfolio-details/1 
 
