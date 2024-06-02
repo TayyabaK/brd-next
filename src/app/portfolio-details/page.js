@@ -7,7 +7,7 @@ import Head from 'next/head';
 import Layout from "../brdLayout/brdLayout";
 import { usePathname, useSearchParams } from "next/navigation";
 
-//ISSUE
+//ISSUE (WHEN OPENING A PAGE with id . it is showing page not found  ) /portfolio-details/1 
 
 const PortfolioDetails = (
 //     {match: {params: {id}}
