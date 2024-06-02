@@ -1,15 +1,25 @@
 'use client';
 
+import { useEffect, useState } from "react";
 import PortfolioDetailsContent from "@/elements/portfolio2/PortfolioDetailsContent";
 import PortfolioData from "@/app/data/PortfolioData.json";
 
 import Head from 'next/head';
 import Layout from "../brdLayout/brdLayout";
-import { useRouter } from "next/router"; // Use useRouter instead of usePathname and useSearchParams
+import { useRouter } from "next/router";
 
 const PortfolioDetails = () => {
     const router = useRouter();
     const { id } = router.query;
+    const [isClient, setIsClient] = useState(false);
+
+    useEffect(() => {
+        setIsClient(true);
+    }, []);
+
+    if (!isClient) {
+        return <div>Loading...</div>;
+    }
 
     if (!id) {
         return <div>Loading...</div>;
