@@ -3,6 +3,7 @@
 import React from "react";
 import Slider from "react-slick";
 import { slickDot } from "../../utils/script";
+import Image from "next/image";
 
 const TestimonialData = [
   {

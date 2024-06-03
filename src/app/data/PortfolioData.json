@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "portfolioImage": "./images/portfolio/chocolateMonkey/main.png",
-    "image": "./images/portfolio/chocolateMonkey/main.png",
+    "portfolioImage": "/images/portfolio/chocolateMonkey/main.png",
+    "image": "/images/portfolio/chocolateMonkey/main.png",
     "title": "Chocolate Monkey NFT Collection",
     "subtitle": "NFT Smart Contract and DApp",
     "date": "08 June 2022",
@@ -14,10 +14,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://www.chocolatemonkeys.com/"
     },
-    "largeImage": "images/portfolio/chocolateMonkey/main.png",
+    "largeImage": "/images/portfolio/chocolateMonkey/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -31,16 +31,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/chocolateMonkey/2.png",
-      "imageTwo": "images/portfolio/chocolateMonkey/3.png",
-      "imageThree": "images/portfolio/chocolateMonkey/4.png"
+      "imageOne": "/images/portfolio/chocolateMonkey/2.png",
+      "imageTwo": "/images/portfolio/chocolateMonkey/3.png",
+      "imageThree": "/images/portfolio/chocolateMonkey/4.png"
     }
   },
 
   {
     "id": 2,
-    "portfolioImage": "./images/portfolio/niftyDogs/main.png",
-    "image": "images/portfolio/niftyDogs/main.png",
+    "portfolioImage": "/images/portfolio/niftyDogs/main.png",
+    "image": "/images/portfolio/niftyDogs/main.png",
     "title": "Nifty Dogs NFT Collection",
     "subtitle": "NFT Smart Contract and DApp",
     "date": "26 July 2022",
@@ -52,10 +52,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://flowstatelabz.com/niftydogs/"
     },
-    "largeImage": "images/portfolio/niftyDogs/main.png",
+    "largeImage": "/images/portfolio/niftyDogs/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -69,16 +69,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/niftyDogs/2.png",
-      "imageTwo": "images/portfolio/niftyDogs/4.png",
-      "imageThree": "images/portfolio/niftyDogs/3.png"
+      "imageOne": "/images/portfolio/niftyDogs/2.png",
+      "imageTwo": "/images/portfolio/niftyDogs/4.png",
+      "imageThree": "/images/portfolio/niftyDogs/3.png"
     }
   },
 
   {
     "id": 3,
-    "portfolioImage": "./images/portfolio/evilWizard/main.png",
-    "image": "images/portfolio/evilWizard/main.png",
+    "portfolioImage": "/images/portfolio/evilWizard/main.png",
+    "image": "/images/portfolio/evilWizard/main.png",
     "title": "Evil Wizard NFT Collection",
     "subtitle": "NFT Smart Contract and DApp",
     "date": "08 May 2022",
@@ -90,10 +90,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://www.evilwizardsnft.com/"
     },
-    "largeImage": "images/portfolio/evilWizard/main.png",
+    "largeImage": "/images/portfolio/evilWizard/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -107,16 +107,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/evilWizard/2.png",
-      "imageTwo": "images/portfolio/evilWizard/3.png",
-      "imageThree": "images/portfolio/evilWizard/4.png"
+      "imageOne": "/images/portfolio/evilWizard/2.png",
+      "imageTwo": "/images/portfolio/evilWizard/3.png",
+      "imageThree": "/images/portfolio/evilWizard/4.png"
     }
   },
 
   {
     "id": 4,
-    "portfolioImage": "./images/portfolio/truestToken/main.png",
-    "image": "images/portfolio/truestToken/main.png",
+    "portfolioImage": "/images/portfolio/truestToken/main.png",
+    "image": "/images/portfolio/truestToken/main.png",
     "title": "Truest Token",
     "subtitle": "Truest Token Website",
     "date": "23 July 2022",
@@ -128,10 +128,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://truesttoken1.surge.sh/"
     },
-    "largeImage": "images/portfolio/truestToken/main.png",
+    "largeImage": "/images/portfolio/truestToken/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -145,16 +145,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/truestToken/2.png",
-      "imageTwo": "images/portfolio/truestToken/3.png",
-      "imageThree": "images/portfolio/truestToken/4.png"
+      "imageOne": "/images/portfolio/truestToken/2.png",
+      "imageTwo": "/images/portfolio/truestToken/3.png",
+      "imageThree": "/images/portfolio/truestToken/4.png"
     }
   },
 
   {
     "id": 5,
-    "portfolioImage": "./images/portfolio/rog/main.png",
-    "image": "images/portfolio/rog/main.png",
+    "portfolioImage": "/images/portfolio/rog/main.png",
+    "image": "/images/portfolio/rog/main.png",
     "title": "Ride of Gamers ICO",
     "subtitle": "Ride of Gamers ICO Smart Contract and DApp",
     "date": "31 May 2022",
@@ -166,10 +166,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "http://rogmetaverse.com/"
     },
-    "largeImage": "images/portfolio/rog/main.png",
+    "largeImage": "/images/portfolio/rog/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -183,16 +183,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/rog/2.png",
-      "imageTwo": "images/portfolio/rog/3.png",
-      "imageThree": "images/portfolio/rog/4.png"
+      "imageOne": "/images/portfolio/rog/2.png",
+      "imageTwo": "/images/portfolio/rog/3.png",
+      "imageThree": "/images/portfolio/rog/4.png"
     }
   },
 
   {
     "id": 6,
-    "portfolioImage": "./images/portfolio/sapiens/main.png",
-    "image": "images/portfolio/sapiens/main.png",
+    "portfolioImage": "/images/portfolio/sapiens/main.png",
+    "image": "/images/portfolio/sapiens/main.png",
     "title": "Sapien Squad Token ICO",
     "subtitle": "Sapien Squad Token ICO Smart Contract and DApp",
     "date": "25 April 2022",
@@ -204,10 +204,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat."
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://sapien-ico.netlify.app/"
     },
-    "largeImage": "images/portfolio/sapiens/main.png",
+    "largeImage": "/images/portfolio/sapiens/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -225,8 +225,8 @@
 
   {
     "id": 7,
-    "portfolioImage": "./images/portfolio/shera/main.png",
-    "image": "images/portfolio/shera/main.png",
+    "portfolioImage": "/images/portfolio/shera/main.png",
+    "image": "/images/portfolio/shera/main.png",
     "title": "Shera Token Migration",
     "subtitle": "Shera Token Migration Smart Contract and DApp",
     "date": "12 April 2022",
@@ -238,10 +238,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://sheraswap.surge.sh/"
     },
-    "largeImage": "images/portfolio/shera/main.png",
+    "largeImage": "/images/portfolio/shera/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -259,8 +259,8 @@
 
   {
     "id": 8,
-    "portfolioImage": "./images/portfolio/vrshiba/main.png",
-    "image": "images/portfolio/vrshiba/main.png",
+    "portfolioImage": "/images/portfolio/vrshiba/main.png",
+    "image": "/images/portfolio/vrshiba/main.png",
     "title": "VRShiba ICO",
     "subtitle": "VRShiba ICO and DApp",
     "date": "05 June 2022",
@@ -272,10 +272,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://vrshiba.surge.sh/"
     },
-    "largeImage": "images/portfolio/vrshiba/main.png",
+    "largeImage": "/images/portfolio/vrshiba/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -293,8 +293,8 @@
 
   {
     "id": 9,
-    "portfolioImage": "./images/portfolio/metaquantum/main.png",
-    "image": "images/portfolio/metaquantum/main.png",
+    "portfolioImage": "/images/portfolio/metaquantum/main.png",
+    "image": "/images/portfolio/metaquantum/main.png",
     "title": "Metaquantum Staking",
     "subtitle": "Metaquantum Staking Smart Contract and DApp",
     "date": "27 June 2022",
@@ -306,10 +306,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://metaquantumstake.surge.sh"
     },
-    "largeImage": "images/portfolio/metaquantum/main.png",
+    "largeImage": "/images/portfolio/metaquantum/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -327,8 +327,8 @@
 
   {
     "id": 10,
-    "portfolioImage": "./images/portfolio/rising-sun/main.png",
-    "image": "images/portfolio/rising-sun/main.png",
+    "portfolioImage": "/images/portfolio/rising-sun/main.png",
+    "image": "/images/portfolio/rising-sun/main.png",
     "title": "Rising Sun NFT Staking",
     "subtitle": "Rising Sun NFT Staking Smart Contract and DApp",
     "date": "11 July 2022",
@@ -340,10 +340,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://staking.risingsuncoin.io/"
     },
-    "largeImage": "images/portfolio/rising-sun/main.png",
+    "largeImage": "/images/portfolio/rising-sun/main.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -360,8 +360,8 @@
   },
   {
     "id": 11,
-    "portfolioImage": "./images/portfolio/TerraMater/main.jpeg",
-    "image": "./images/portfolio/TerraMater/shot.jpeg",
+    "portfolioImage": "/images/portfolio/TerraMater/main.jpeg",
+    "image": "/images/portfolio/TerraMater/shot.jpeg",
     "title": "Terra Mater NFT Marketplace",
     "subtitle": "First NFT Incubator and marketplace owned by people",
     "date": "",
@@ -376,7 +376,7 @@
       "buttontext": "View Project",
       "link": "https://www.terramaternfts.com/home"
     },
-    "largeImage": "./images/portfolio/TerraMater/shot.jpeg",
+    "largeImage": "/images/portfolio/TerraMater/shot.jpeg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -397,8 +397,8 @@
   },
   {
     "id": 12,
-    "portfolioImage": "./images/portfolio/mettaProtocol/metaStake.jpeg",
-    "image": "./images/portfolio/mettaProtocol/metaStake.jpeg",
+    "portfolioImage": "/images/portfolio/mettaProtocol/metaStake.jpeg",
+    "image": "/images/portfolio/mettaProtocol/metaStake.jpeg",
     "title": "Metta Protocol ICO",
     "subtitle": "Metta Protocol INITIAL COIN OFFERING",
     "date": "",
@@ -413,7 +413,7 @@
       "buttontext": "View Project",
       "link": "https://mettatoken.org/"
     },
-    "largeImage": "./images/portfolio/mettaProtocol/metaStake.jpeg",
+    "largeImage": "/images/portfolio/mettaProtocol/metaStake.jpeg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -434,8 +434,8 @@
   },
   {
     "id": 13,
-    "portfolioImage": "./images/portfolio/Degrain/degrainStake.jpeg",
-    "image": "./images/portfolio/Degrain/degrainStake.jpeg",
+    "portfolioImage": "/images/portfolio/Degrain/degrainStake.jpeg",
+    "image": "/images/portfolio/Degrain/degrainStake.jpeg",
     "title": "Degrain Staking",
     "subtitle": "Degrain Staking Plateform",
     "date": "",
@@ -450,7 +450,7 @@
       "buttontext": "View Project",
       "link": "https://degrain.surge.sh/"
     },
-    "largeImage": "./images/portfolio/Degrain/degrainStake.jpeg",
+    "largeImage": "/images/portfolio/Degrain/degrainStake.jpeg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -471,8 +471,8 @@
   },
   {
     "id": 14,
-    "portfolioImage": "./images/portfolio/albino/albino.jpeg",
-    "image": "./images/portfolio/albino/albino.jpeg",
+    "portfolioImage": "/images/portfolio/albino/albino.jpeg",
+    "image": "/images/portfolio/albino/albino.jpeg",
     "title": "Albino",
     "subtitle": "Albino Webiste and ICO Plateform",
     "date": "",
@@ -487,7 +487,7 @@
       "buttontext": "View Project",
       "link": "https://www.thealbinos.com/"
     },
-    "largeImage": "./images/portfolio/albino/albino.jpeg",
+    "largeImage": "/images/portfolio/albino/albino.jpeg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -508,8 +508,8 @@
   },
   {
     "id": 15,
-    "portfolioImage": "./images/portfolio/rwax/rwax.jpeg",
-    "image": "./images/portfolio/rwax/rwax.jpeg",
+    "portfolioImage": "/images/portfolio/rwax/rwax.jpeg",
+    "image": "/images/portfolio/rwax/rwax.jpeg",
     "title": "RWAX ICO & Website",
     "subtitle": "RWAX Webiste and ICO Plateform",
     "date": "",
@@ -524,7 +524,7 @@
       "buttontext": "View Project",
       "link": "https://rwax-ico.surge.sh/"
     },
-    "largeImage": "./images/portfolio/rwax/rwax.jpeg",
+    "largeImage": "/images/portfolio/rwax/rwax.jpeg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -545,8 +545,8 @@
   },
   {
     "id": 16,
-    "portfolioImage": "./images/portfolio/Pupipay/pupipay.jpeg",
-    "image": "./images/portfolio/Pupipay/pupipay.jpeg",
+    "portfolioImage": "/images/portfolio/Pupipay/pupipay.jpeg",
+    "image": "/images/portfolio/Pupipay/pupipay.jpeg",
     "title": "PUPIPAY",
     "subtitle": "PUPIPAY ICO and Website",
     "date": "",
@@ -561,7 +561,7 @@
       "buttontext": "View Project",
       "link": "https://pupipay.surge.sh/index"
     },
-    "largeImage": "./images/portfolio/Pupipay/pupipay.jpeg",
+    "largeImage": "/images/portfolio/Pupipay/pupipay.jpeg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -582,8 +582,8 @@
   },
   {
     "id": 17,
-    "portfolioImage": "./images/portfolio/dexo/dexo.png",
-    "image": "./images/portfolio/dexo/dexo.png",
+    "portfolioImage": "/images/portfolio/dexo/dexo.png",
+    "image": "/images/portfolio/dexo/dexo.png",
     "title": "Dexo",
     "subtitle": "DEXO Crypto Exchange",
     "date": "",
@@ -598,7 +598,7 @@
       "buttontext": "View Project",
       "link": "https://app.dexo.exchange/swap/"
     },
-    "largeImage": "./images/portfolio/dexo/dexo.png",
+    "largeImage": "/images/portfolio/dexo/dexo.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -616,12 +616,11 @@
       "subtext": "We provide NFT Marketplace development to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": null
-  }
-,
+  },
   {
     "id": 18,
-    "portfolioImage": "./images/portfolio/kangamoon/kangamoon.png",
-    "image": "./images/portfolio/kangamoon/kangamoon.png",
+    "portfolioImage": "/images/portfolio/kangamoon/kangamoon.png",
+    "image": "/images/portfolio/kangamoon/kangamoon.png",
     "title": "Kangamoon",
     "subtitle": "KANGAMOON Crypto Staking",
     "date": "",
@@ -636,7 +635,7 @@
       "buttontext": "View Project",
       "link": "https://kangamoon-staking.netlify.app"
     },
-    "largeImage": "./images/portfolio/kangamoon/kangamoon.png",
+    "largeImage": "/images/portfolio/kangamoon/kangamoon.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -657,8 +656,8 @@
   },
   {
     "id": 19,
-    "portfolioImage": "./images/portfolio/plx/plx.png",
-    "image": "./images/portfolio/plx/plx.png",
+    "portfolioImage": "/images/portfolio/plx/plx.png",
+    "image": "/images/portfolio/plx/plx.png",
     "title": "Plx",
     "subtitle": "PLX Crypto Staking",
     "date": "",
@@ -673,7 +672,7 @@
       "buttontext": "View Project",
       "link": "  https://plx-staking.netlify.app"
     },
-    "largeImage": "./images/portfolio/plx/plx.png",
+    "largeImage": "/images/portfolio/plx/plx.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -691,12 +690,11 @@
       "subtext": "We provide NFT Marketplace development to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": null
-  }
-  ,
+  },
   {
     "id": 20,
-    "portfolioImage": "./images/portfolio/asvoria/asvoria.png",
-    "image": "./images/portfolio/asvoria/asvoria.png",
+    "portfolioImage": "/images/portfolio/asvoria/asvoria.png",
+    "image": "/images/portfolio/asvoria/asvoria.png",
     "title": "Asvoria",
     "subtitle": "ASVORIA Crypto Staking",
     "date": "",
@@ -711,7 +709,7 @@
       "buttontext": "View Project",
       "link": "https://asvoria-stake.netlify.app"
     },
-    "largeImage": "./images/portfolio/asvoria/asvoria.png",
+    "largeImage": "/images/portfolio/asvoria/asvoria.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -732,8 +730,8 @@
   },
   {
     "id": 21,
-    "portfolioImage": "./images/portfolio/solala-coin/solala.png",
-    "image": "./images/portfolio/solala-coin/solala.png",
+    "portfolioImage": "/images/portfolio/solala-coin/solala.png",
+    "image": "/images/portfolio/solala-coin/solala.png",
     "title": "Solala-coin",
     "subtitle": "SOLALA-COIN Crypto Staking",
     "date": "",
@@ -748,7 +746,7 @@
       "buttontext": "View Project",
       "link": "https://solala-coin-staking.netlify.app"
     },
-    "largeImage": "./images/portfolio/solala-coin/solala.png",
+    "largeImage": "/images/portfolio/solala-coin/solala.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -769,8 +767,8 @@
   },
   {
     "id": 22,
-    "portfolioImage": "./images/portfolio/qubychain/qubychain.png",
-    "image": "./images/portfolio/qubychain/qubychain.png",
+    "portfolioImage": "/images/portfolio/qubychain/qubychain.png",
+    "image": "/images/portfolio/qubychain/qubychain.png",
     "title": "Quby Chain",
     "subtitle": "QUBY CHAIN Crypto Staking",
     "date": "",
@@ -785,7 +783,7 @@
       "buttontext": "View Project",
       "link": "https://qubychain-site.netlify.app"
     },
-    "largeImage": "./images/portfolio/qubychain/qubychain.png",
+    "largeImage": "/images/portfolio/qubychain/qubychain.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -806,8 +804,8 @@
   },
   {
     "id": 23,
-    "portfolioImage": "./images/portfolio/orbeon/orbeon.png",
-    "image": "./images/portfolio/orbeon/orbeon.png",
+    "portfolioImage": "/images/portfolio/orbeon/orbeon.png",
+    "image": "/images/portfolio/orbeon/orbeon.png",
     "title": "Orbeon",
     "subtitle": "ORBEON Crypto Staking",
     "date": "",
@@ -822,7 +820,7 @@
       "buttontext": "View Project",
       "link": "https://orbeon-staking.surge.sh"
     },
-    "largeImage": "./images/portfolio/orbeon/orbeon.png",
+    "largeImage": "/images/portfolio/orbeon/orbeon.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -843,8 +841,8 @@
   },
   {
     "id": 24,
-    "portfolioImage": "./images/portfolio/orbeon/orbeon.png",
-    "image": "./images/portfolio/orbeon/orbeon.png",
+    "portfolioImage": "/images/portfolio/orbeon/orbeon.png",
+    "image": "/images/portfolio/orbeon/orbeon.png",
     "title": "Tbm",
     "subtitle": "TBM Crypto Staking",
     "date": "",
@@ -859,7 +857,7 @@
       "buttontext": "View Project",
       "link": "https://tbm-staking.surge.sh/"
     },
-    "largeImage": "./images/portfolio/orbeon/orbeon.png",
+    "largeImage": "/images/portfolio/orbeon/orbeon.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -880,8 +878,8 @@
   },
   {
     "id": 25,
-    "portfolioImage": "./images/portfolio/snowfall/snowfall.png",
-    "image": "./images/portfolio/snowfall/snowfall.png",
+    "portfolioImage": "/images/portfolio/snowfall/snowfall.png",
+    "image": "/images/portfolio/snowfall/snowfall.png",
     "title": "Snowfall Staking",
     "subtitle": "SNOWFALL Crypto Staking",
     "date": "",
@@ -896,7 +894,7 @@
       "buttontext": "View Project",
       "link": "https://snowfall-staking.surge.sh"
     },
-    "largeImage": "./images/portfolio/snowfall/snowfall.png",
+    "largeImage": "/images/portfolio/snowfall/snowfall.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -917,8 +915,8 @@
   },
   {
     "id": 26,
-    "portfolioImage": "./images/portfolio/casino/casino.png",
-    "image": "./images/portfolio/casino/casino.png",
+    "portfolioImage": "/images/portfolio/casino/casino.png",
+    "image": "/images/portfolio/casino/casino.png",
     "title": "Tg.casino Staking",
     "subtitle": "TG.CASINO Crypto Staking",
     "date": "",
@@ -933,7 +931,7 @@
       "buttontext": "View Project",
       "link": "https://www.tg.casino/en"
     },
-    "largeImage": "./images/portfolio/casino/casino.png",
+    "largeImage": "/images/portfolio/casino/casino.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -954,8 +952,8 @@
   },
   {
     "id": 27,
-    "portfolioImage": "./images/portfolio/pool/pool.png",
-    "image": "./images/portfolio/pool/pool.png",
+    "portfolioImage": "/images/portfolio/pool/pool.png",
+    "image": "/images/portfolio/pool/pool.png",
     "title": "Pool 888 Staking",
     "subtitle": "POOL 888 Crypto Staking",
     "date": "",
@@ -970,7 +968,7 @@
       "buttontext": "View Project",
       "link": "https://pool888-staking.surge.sh/pools"
     },
-    "largeImage": "./images/portfolio/pool/pool.png",
+    "largeImage": "/images/portfolio/pool/pool.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -988,12 +986,11 @@
       "subtext": "We provide NFT Marketplace development to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": null
-  }
-  ,
+  },
   {
     "id": 28,
-    "portfolioImage": "./images/portfolio/altura/altura.png",
-    "image": "./images/portfolio/altura/altura.png",
+    "portfolioImage": "/images/portfolio/altura/altura.png",
+    "image": "/images/portfolio/altura/altura.png",
     "title": "Altura Staking",
     "subtitle": "ALTURA Crypto Staking",
     "date": "",
@@ -1008,7 +1005,7 @@
       "buttontext": "View Project",
       "link": "https://staking.alturanft.com"
     },
-    "largeImage": "./images/portfolio/altura/altura.png",
+    "largeImage": "/images/portfolio/altura/altura.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1029,8 +1026,8 @@
   },
   {
     "id": 29,
-    "portfolioImage": "./images/portfolio/mettatoken/mettaToken.png",
-    "image": "./images/portfolio/mettatoken/mettaToken.png",
+    "portfolioImage": "/images/portfolio/mettatoken/mettaToken.png",
+    "image": "/images/portfolio/mettatoken/mettaToken.png",
     "title": "Meta Tokken Staking",
     "subtitle": "META TOKKEN Crypto Staking",
     "date": "",
@@ -1045,7 +1042,7 @@
       "buttontext": "View Project",
       "link": "https://metta-protocol.surge.sh"
     },
-    "largeImage": "./images/portfolio/mettatoken/mettaToken.png",
+    "largeImage": "/images/portfolio/mettatoken/mettaToken.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1066,8 +1063,8 @@
   },
   {
     "id": 30,
-    "portfolioImage": "./images/portfolio/dexo2/dexo2.png",
-    "image": "./images/portfolio/dexo2/dexo2.png",
+    "portfolioImage": "/images/portfolio/dexo2/dexo2.png",
+    "image": "/images/portfolio/dexo2/dexo2.png",
     "title": "Dexo Staking",
     "subtitle": "DEXO Crypto Staking",
     "date": "",
@@ -1082,7 +1079,7 @@
       "buttontext": "View Project",
       "link": "https://dexo-staking.surge.sh"
     },
-    "largeImage": "./images/portfolio/dexo2/dexo2.png",
+    "largeImage": "/images/portfolio/dexo2/dexo2.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1103,9 +1100,9 @@
   },
 
   {
-    "id":31,
-    "portfolioImage": "./images/portfolio/metadapp/metadapp.png",
-    "image": "./images/portfolio/metadapp/metadapp.png",
+    "id": 31,
+    "portfolioImage": "/images/portfolio/metadapp/metadapp.png",
+    "image": "/images/portfolio/metadapp/metadapp.png",
     "title": "Meta Dapp Protocol Staking",
     "subtitle": "META DAPP PROTOCOL Crypto Staking",
     "date": "",
@@ -1117,10 +1114,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://metta-dapp-protocol.netlify.app"
     },
-    "largeImage": "./images/portfolio/metadapp/metadapp.png",
+    "largeImage": "/images/portfolio/metadapp/metadapp.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1137,8 +1134,8 @@
   },
   {
     "id": 32,
-    "portfolioImage": "./images/portfolio/metawarrior/metawarrior.png",
-    "image": "./images/portfolio/metawarrior/metawarrior.png",
+    "portfolioImage": "/images/portfolio/metawarrior/metawarrior.png",
+    "image": "/images/portfolio/metawarrior/metawarrior.png",
     "title": "Meta Warriors",
     "subtitle": "META WARRIORS",
     "date": "",
@@ -1150,10 +1147,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://www.alpha.metawarriors.world"
     },
-    "largeImage": "./images/portfolio/metawarrior/metawarrior.png",
+    "largeImage": "/images/portfolio/metawarrior/metawarrior.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1170,8 +1167,8 @@
   },
   {
     "id": 33,
-    "portfolioImage": "./images/portfolio/crolonmars/crolonmars.png",
-    "image": "./images/portfolio/crolonmars/crolonmars.png",
+    "portfolioImage": "/images/portfolio/crolonmars/crolonmars.png",
+    "image": "/images/portfolio/crolonmars/crolonmars.png",
     "title": "Crolon Mars",
     "subtitle": "CROLON MARS",
     "date": "",
@@ -1183,10 +1180,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://www.p2e.crolonmars.net"
     },
-    "largeImage": "./images/portfolio/crolonmars/crolonmars.png",
+    "largeImage": "/images/portfolio/crolonmars/crolonmars.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1203,8 +1200,8 @@
   },
   {
     "id": 34,
-    "portfolioImage": "./images/portfolio/mlmpool/mlmpool.png",
-    "image": "./images/portfolio/mlmpool/mlmpool.png",
+    "portfolioImage": "/images/portfolio/mlmpool/mlmpool.png",
+    "image": "/images/portfolio/mlmpool/mlmpool.png",
     "title": "Pool 888",
     "subtitle": "POOL 888",
     "date": "",
@@ -1216,10 +1213,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://pool-888.surge.sh/login"
     },
-    "largeImage": "./images/portfolio/mlmpool/mlmpool.png",
+    "largeImage": "/images/portfolio/mlmpool/mlmpool.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1236,8 +1233,8 @@
   },
   {
     "id": 35,
-    "portfolioImage": "./images/portfolio/watchvest/watchvest.png",
-    "image": "./images/portfolio/watchvest/watchvest.png",
+    "portfolioImage": "/images/portfolio/watchvest/watchvest.png",
+    "image": "/images/portfolio/watchvest/watchvest.png",
     "title": "Watchvestor",
     "subtitle": "WATCHVESTOR",
     "date": "",
@@ -1249,10 +1246,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://watchvestor.vercel.app"
     },
-    "largeImage": "./images/portfolio/watchvest/watchvest.png",
+    "largeImage": "/images/portfolio/watchvest/watchvest.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1269,8 +1266,8 @@
   },
   {
     "id": 36,
-    "portfolioImage": "./images/portfolio/pomerdoge/pomerdoge.png",
-    "image": "./images/portfolio/pomerdoge/pomerdoge.png",
+    "portfolioImage": "/images/portfolio/pomerdoge/pomerdoge.png",
+    "image": "/images/portfolio/pomerdoge/pomerdoge.png",
     "title": "Pomerdoge",
     "subtitle": "POMERDOGE",
     "date": "",
@@ -1282,10 +1279,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://pomerdoge-presale.netlify.app"
     },
-    "largeImage": "./images/portfolio/pomerdoge/pomerdoge.png",
+    "largeImage": "/images/portfolio/pomerdoge/pomerdoge.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1302,8 +1299,8 @@
   },
   {
     "id": 37,
-    "portfolioImage": "./images/portfolio/minetopia/minetopia.png",
-    "image": "./images/portfolio/minetopia/minetopia.png",
+    "portfolioImage": "/images/portfolio/minetopia/minetopia.png",
+    "image": "/images/portfolio/minetopia/minetopia.png",
     "title": "Minetopia",
     "subtitle": "MINETOPIA",
     "date": "",
@@ -1315,10 +1312,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://pomerdoge-presale.netlify.app"
     },
-    "largeImage": "./images/portfolio/minetopia/minetopia.png",
+    "largeImage": "/images/portfolio/minetopia/minetopia.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1335,8 +1332,8 @@
   },
   {
     "id": 37,
-    "portfolioImage": "./images/portfolio/bondz/bondz.png",
-    "image": "./images/portfolio/bondz/bondz.png",
+    "portfolioImage": "/images/portfolio/bondz/bondz.png",
+    "image": "/images/portfolio/bondz/bondz.png",
     "title": "Bondz Token",
     "subtitle": "BONDZ TOKEN",
     "date": "",
@@ -1348,10 +1345,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://bondz-bridge.netlify.app/dashboard/home"
     },
-    "largeImage": "./images/portfolio/bondz/bondz.png",
+    "largeImage": "/images/portfolio/bondz/bondz.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1368,8 +1365,8 @@
   },
   {
     "id": 38,
-    "portfolioImage": "./images/portfolio/sunbridge/sun.png",
-    "image": "./images/portfolio/sunbridge/sun.png",
+    "portfolioImage": "/images/portfolio/sunbridge/sun.png",
+    "image": "/images/portfolio/sunbridge/sun.png",
     "title": "Sun Token",
     "subtitle": "SUN TOKEN",
     "date": "",
@@ -1381,10 +1378,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://bondz-bridge.netlify.app/dashboard/home"
     },
-    "largeImage": "./images/portfolio/sunbridge/sun.png",
+    "largeImage": "/images/portfolio/sunbridge/sun.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1401,8 +1398,8 @@
   },
   {
     "id": 39,
-    "portfolioImage": "./images/portfolio/nordicx/nordicx.png",
-    "image": "./images/portfolio/nordicx/nordicx.png",
+    "portfolioImage": "/images/portfolio/nordicx/nordicx.png",
+    "image": "/images/portfolio/nordicx/nordicx.png",
     "title": "Nordicx",
     "subtitle": "NORDICX",
     "date": "",
@@ -1414,10 +1411,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://nordicx.io/login"
     },
-    "largeImage": "./images/portfolio/nordicx/nordicx.png",
+    "largeImage": "/images/portfolio/nordicx/nordicx.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1434,8 +1431,8 @@
   },
   {
     "id": 40,
-    "portfolioImage": "./images/portfolio/dexo_cdex/dexo.png",
-    "image": "./images/portfolio/dexo_cdex/dexo.png",
+    "portfolioImage": "/images/portfolio/dexo_cdex/dexo.png",
+    "image": "/images/portfolio/dexo_cdex/dexo.png",
     "title": "Dexo C-Dex",
     "subtitle": "DEXO C-DEX",
     "date": "",
@@ -1447,10 +1444,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://app.dexo.exchange/swap"
     },
-    "largeImage": "./images/portfolio/dexo_cdex/dexo.png",
+    "largeImage": "/images/portfolio/dexo_cdex/dexo.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1467,8 +1464,8 @@
   },
   {
     "id": 41,
-    "portfolioImage": "./images/portfolio/undead/undead.png",
-    "image": "./images/portfolio/undead/undead.png",
+    "portfolioImage": "/images/portfolio/undead/undead.png",
+    "image": "/images/portfolio/undead/undead.png",
     "title": "Undead Horizon",
     "subtitle": "UNDEAD HORIZON",
     "date": "",
@@ -1480,10 +1477,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://undead-horizon.vercel.app"
     },
-    "largeImage": "./images/portfolio/undead/undead.png",
+    "largeImage": "/images/portfolio/undead/undead.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1500,8 +1497,8 @@
   },
   {
     "id": 42,
-    "portfolioImage": "./images/portfolio/pullix/pullix.png",
-    "image": "./images/portfolio/pullix/pullix.png",
+    "portfolioImage": "/images/portfolio/pullix/pullix.png",
+    "image": "/images/portfolio/pullix/pullix.png",
     "title": "Pullix",
     "subtitle": "PULLIX",
     "date": "",
@@ -1513,10 +1510,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://pullix.io"
     },
-    "largeImage": "./images/portfolio/pullix/pullix.png",
+    "largeImage": "/images/portfolio/pullix/pullix.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1533,8 +1530,8 @@
   },
   {
     "id": 43,
-    "portfolioImage": "./images/portfolio/solanapad/solana.png",
-    "image": "./images/portfolio/solanapad/solana.png",
+    "portfolioImage": "/images/portfolio/solanapad/solana.png",
+    "image": "/images/portfolio/solanapad/solana.png",
     "title": "Solana Pad",
     "subtitle": "SOLANA PAD",
     "date": "",
@@ -1546,10 +1543,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://solanapad.io"
     },
-    "largeImage": "./images/portfolio/solanapad/solana.png",
+    "largeImage": "/images/portfolio/solanapad/solana.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1566,8 +1563,8 @@
   },
   {
     "id": 44,
-    "portfolioImage": "./images/portfolio/bejewelled/bejewelled.png",
-    "image": "./images/portfolio/bejewelled/bejewelled.png",
+    "portfolioImage": "/images/portfolio/bejewelled/bejewelled.png",
+    "image": "/images/portfolio/bejewelled/bejewelled.png",
     "title": "Bejewelled-Sunshine",
     "subtitle": "BEJEWELLED-SUNSHINE",
     "date": "",
@@ -1579,10 +1576,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://bejewelled-sunshine-9d064a.netlify.app"
     },
-    "largeImage": "./images/portfolio/bejewelled/bejewelled.png",
+    "largeImage": "/images/portfolio/bejewelled/bejewelled.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1599,8 +1596,8 @@
   },
   {
     "id": 45,
-    "portfolioImage": "./images/portfolio/metascapeai/metascapeai.png",
-    "image": "./images/portfolio/metascapeai/metascapeai.png",
+    "portfolioImage": "/images/portfolio/metascapeai/metascapeai.png",
+    "image": "/images/portfolio/metascapeai/metascapeai.png",
     "title": "Meta Scape",
     "subtitle": "META SCAPE",
     "date": "",
@@ -1612,10 +1609,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://metascapeai.com"
     },
-    "largeImage": "./images/portfolio/metascapeai/metascapeai.png",
+    "largeImage": "/images/portfolio/metascapeai/metascapeai.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1632,8 +1629,8 @@
   },
   {
     "id": 46,
-    "portfolioImage": "./images/portfolio/sempsun/sempsun.png",
-    "image": "./images/portfolio/sempsun/sempsun.png",
+    "portfolioImage": "/images/portfolio/sempsun/sempsun.png",
+    "image": "/images/portfolio/sempsun/sempsun.png",
     "title": "Sempsun Ai",
     "subtitle": "SEMPSUN AI",
     "date": "",
@@ -1645,10 +1642,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://sempsun-ai.web.app"
     },
-    "largeImage": "./images/portfolio/sempsun/sempsun.png",
+    "largeImage": "/images/portfolio/sempsun/sempsun.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1665,8 +1662,8 @@
   },
   {
     "id": 47,
-    "portfolioImage": "./images/portfolio/thealbinos/thealbinos.png",
-    "image": "./images/portfolio/thealbinos/thealbinos.png",
+    "portfolioImage": "/images/portfolio/thealbinos/thealbinos.png",
+    "image": "/images/portfolio/thealbinos/thealbinos.png",
     "title": "The Albinos",
     "subtitle": "THE ALBINOS",
     "date": "",
@@ -1678,10 +1675,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://www.thealbinos.com"
     },
-    "largeImage": "./images/portfolio/thealbinos/thealbinos.png",
+    "largeImage": "/images/portfolio/thealbinos/thealbinos.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1698,8 +1695,8 @@
   },
   {
     "id": 48,
-    "portfolioImage": "./images/portfolio/cmc/cmc.png",
-    "image": "./images/portfolio/cmc/cmc.png",
+    "portfolioImage": "/images/portfolio/cmc/cmc.png",
+    "image": "/images/portfolio/cmc/cmc.png",
     "title": "Cmc",
     "subtitle": "CMC",
     "date": "",
@@ -1711,10 +1708,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://cmc-website.netlify.app/#home"
     },
-    "largeImage": "./images/portfolio/cmc/cmc.png",
+    "largeImage": "/images/portfolio/cmc/cmc.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1731,8 +1728,8 @@
   },
   {
     "id": 49,
-    "portfolioImage": "./images/portfolio/evil-wizards/evil.png",
-    "image": "./images/portfolio/evil-wizards/evil.png",
+    "portfolioImage": "/images/portfolio/evil-wizards/evil.png",
+    "image": "/images/portfolio/evil-wizards/evil.png",
     "title": "Evil Wizards",
     "subtitle": "EVIL WIZARDS",
     "date": "",
@@ -1744,10 +1741,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://evil-wizards.surge.sh"
     },
-    "largeImage": "./images/portfolio/evil-wizards/evil.png",
+    "largeImage": "/images/portfolio/evil-wizards/evil.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1764,8 +1761,8 @@
   },
   {
     "id": 50,
-    "portfolioImage": "./images/portfolio/rogtoken/rogtoken.png",
-    "image": "./images/portfolio/rogtoken/rogtoken.png",
+    "portfolioImage": "/images/portfolio/rogtoken/rogtoken.png",
+    "image": "/images/portfolio/rogtoken/rogtoken.png",
     "title": "Rog Token",
     "subtitle": "ROG TOKEN",
     "date": "",
@@ -1777,10 +1774,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://rogtoken.surge.sh/#"
     },
-    "largeImage": "./images/portfolio/rogtoken/rogtoken.png",
+    "largeImage": "/images/portfolio/rogtoken/rogtoken.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -1797,8 +1794,8 @@
   },
   {
     "id": 51,
-    "portfolioImage": "./images/portfolio/flasko/flasko.png",
-    "image": "./images/portfolio/flasko/flasko.png",
+    "portfolioImage": "/images/portfolio/flasko/flasko.png",
+    "image": "/images/portfolio/flasko/flasko.png",
     "title": "Pemuda Togel",
     "subtitle": "PEMUDA TOGEL",
     "date": "",
@@ -1810,10 +1807,10 @@
       "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
     ],
     "btn": {
-      "buttontext": "View Projects",
+      "buttontext": "View Project",
       "link": "https://www.flasko.io/"
     },
-    "largeImage": "./images/portfolio/flasko/flasko.png",
+    "largeImage": "/images/portfolio/flasko/flasko.png",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."

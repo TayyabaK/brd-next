@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const PortfolioDetailsContent = ({ data }) => {
   return (
@@ -9,42 +10,42 @@ const PortfolioDetailsContent = ({ data }) => {
             <div className="inner">
               <div className="details-list">
                 <div className="thumbnail alignwide">
-                  <img
+                  <Image
                     className="radius w-100"
-                    src={`${process.env.PUBLIC_URL}/${data.largeImage}`}
+                    src={`${data.largeImage}`}
                     alt="Corporate Image"
+                    width={500}
+                    height={300}
                   />
                 </div>
 
                 <div className="row mt--40 row--30">
                   <div className="col-lg-6">
                     <div className="content-left">
-                      {/* <h4 className="title">{data.title}</h4>
-                                            <div className="single-list-wrapper">
-                                                <div className="single-list">
-                                                    <label>Date:</label>
-                                                    <span>{data.date}</span>
-                                                </div>
-                                                <div className="single-list">
-                                                    <label>Client:</label>
-                                                    <span>{data.client}</span>
-                                                </div>
-                                                <div className="single-list">
-                                                    <label>Category:</label>
-                                                    <span>{data.category}</span>
-                                                </div>
-                                            </div> */}
-                      <div className="view-btn mt_sm--1 mt_md--1">
-                        <div className=" mt_sm--1 mt_md--1  ">
-                          <a
-                            className="btn-default btn-large round mt_sm--20"
-                            href={`${data.btn.link}`}
-                            target="_blank"
-                            rel="noreferrer"
-                          >
-                            {data.btn.buttontext}
-                          </a>
+                      <h4 className="title">{data.title}</h4>
+                      <div className="single-list-wrapper">
+                        <div className="single-list">
+                          <label>Date:</label>
+                          <span>{data.date}</span>
                         </div>
+                        <div className="single-list">
+                          <label>Client:</label>
+                          <span>{data.client}</span>
+                        </div>
+                        <div className="single-list">
+                          <label>Category:</label>
+                          <span>{data.category}</span>
+                        </div>
+                      </div>
+                      <div className="view-btn mt_sm--1 mt_md--1 d-flex justify-content-center">
+                        <a
+                          className="btn-default btn-large round mt_sm--20"
+                          href={`${data.btn.link}`}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {data.btn.buttontext}
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -59,37 +60,43 @@ const PortfolioDetailsContent = ({ data }) => {
                   </div>
                 </div>
               </div>
-              {/* {data.gallery && (
+              {data.gallery && (
                 <div className="portfolio-gallery mt--40">
                   <div className="gallery mt--30">
                     <div className="thumbnail">
-                      <img
+                      <Image
                         className="radius w-100"
-                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageOne}`}
+                        src={`${data.gallery.imageOne}`}
                         alt="Corporate Image"
+                        width={500}
+                        height={300}
                       />
                     </div>
                   </div>
                   <div className="gallery mt--30">
                     <div className="thumbnail">
-                      <imgtus
+                      <Image
                         className="radius w-100"
-                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageTwo}`}
+                        src={`${data.gallery.imageTwo}`}
                         alt="Corporate Image"
+                        width={500}
+                        height={300}
                       />
                     </div>
                   </div>
                   <div className="gallery mt--30">
                     <div className="thumbnail">
-                      <img
+                      <Image
                         className="radius w-100"
-                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageThree}`}
+                        src={`${data.gallery.imageThree}`}
                         alt="Corporate Image"
+                        width={500}
+                        height={300}
                       />
                     </div>
                   </div>
                 </div>
-              )} */}
+              )}
             </div>
           </div>
         </div>
