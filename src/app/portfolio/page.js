@@ -1,5 +1,5 @@
 // import React from "react";
-'use client'
+"use client";
 import Head from "next/head";
 // import SEO from "../common/SEO";
 
@@ -8,9 +8,7 @@ import BrdHeader from "../common/BrdHeader";
 import Copyright from "../common/footer/Brd__Footer";
 // import ScrollTop from "../common/footer/ScrollTop";
 
-
 import PortfolioOne from "@/elements/portfolio2/page";
-
 
 // import BrandThree from "../elements/brand/BrandThree";
 
@@ -21,8 +19,8 @@ const CreativePortfolio = () => {
   return (
     <>
       <Head>
-                <title>Creative Portfolio || Button R Digitech</title>
-            </Head>
+        <title>Creative Portfolio || Button R Digitech</title>
+      </Head>
       <main className="page-wrapper">
         <BrdHeader
           btnStyle="btn-small round btn-icon"
@@ -30,7 +28,7 @@ const CreativePortfolio = () => {
         />
 
         {/* Start Slider area  */}
-        <div className="slider-area slider-style-7 height-750">
+        {/* <div className="slider-area slider-style-7 height-750">
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
@@ -41,12 +39,12 @@ const CreativePortfolio = () => {
                   <h1 className="title">Button R Digitech</h1>
                   {/* <div className="button-group mt--40 mt_sm--20">
                                         <a className="btn-default btn-icon round btn-large" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Purchase Now <i className="icon"><FiArrowRight /></i></a>
-                                    </div> */}
+                                    </div> 
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         {/* End Slider area  */}
 
         <Separator />
@@ -54,14 +52,8 @@ const CreativePortfolio = () => {
         <div className="rwt-portfolio-area rn-section-gapTop">
           <div className="container-fluid plr--60 plr_md--15 plr_sm--15">
             <div className="row">
-              <div className="col-lg-12">
-                <SectionTitle
-                  textAlign="text-center"
-                  radiusRounded=""
-                  subtitle="Our Work"
-                  // title = "Look ma, we made this!"
-                  // description = "Trust us. It’s there. You just don’t see it because it is that good."
-                />
+              <div className="col-lg-12 text-center">
+                <h1 className="text-blue-500">Our Work</h1>
               </div>
             </div>
             <PortfolioOne Column="col-lg-4 mt--30 box-grid-layout no-overlay" />
