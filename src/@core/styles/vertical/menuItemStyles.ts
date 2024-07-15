@@ -2,12 +2,12 @@
 import type { Theme } from '@mui/material/styles'
 
 // Type Imports
-import type { MenuItemStyles } from '@menu/types'
+import type { MenuItemStyles } from '../../../app/asvoria/src/@menu/types'
 import type { Settings } from '@core/contexts/settingsContext'
-import type { VerticalNavState } from '@menu/contexts/verticalNavContext'
+import type { VerticalNavState } from '../../../app/asvoria/src/@menu/contexts/verticalNavContext'
 
 // Util Imports
-import { menuClasses } from '@menu/utils/menuClasses'
+import { menuClasses } from '../../../app/asvoria/src/@menu/utils/menuClasses'
 
 const menuItemStyles = (verticalNavOptions: VerticalNavState, theme: Theme, settings: Settings): MenuItemStyles => {
   // Vars

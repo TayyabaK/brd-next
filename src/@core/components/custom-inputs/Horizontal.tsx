@@ -9,9 +9,9 @@ import { styled } from '@mui/material/styles'
 
 // Third-party Imports
 import classnames from 'classnames'
+import { CustomInputHorizontalProps } from './types'
 
 // Type Imports
-import type { CustomInputHorizontalProps } from './types'
 
 const Root = styled('div', {
   name: 'MuiCustomInputHorizontal',

@@ -5,7 +5,7 @@ import styled from '@emotion/styled'
 import classnames from 'classnames'
 
 // Component Imports
-import HorizontalMenu from './HorizontalMenu'
+import HorizontalMenu from './page'
 
 // Config Imports
 import themeConfig from '../../../configs/themeConfig'

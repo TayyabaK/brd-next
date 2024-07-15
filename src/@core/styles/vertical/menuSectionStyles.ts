@@ -2,11 +2,11 @@
 import type { Theme } from '@mui/material/styles'
 
 // Type Imports
-import type { VerticalNavState } from '@menu/contexts/verticalNavContext'
-import type { MenuProps } from '@menu/vertical-menu'
+import type { VerticalNavState } from '../../../app/asvoria/src/@menu/contexts/verticalNavContext'
+import type { MenuProps } from '../../../app/asvoria/src/@menu/vertical-menu'
 
 // Util Imports
-import { menuClasses } from '@menu/utils/menuClasses'
+import { menuClasses } from '../../../app/asvoria/src/@menu/utils/menuClasses'
 
 const menuSectionStyles = (verticalNavOptions: VerticalNavState, theme: Theme): MenuProps['menuSectionStyles'] => {
   // Vars

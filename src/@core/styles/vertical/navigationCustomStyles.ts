@@ -2,10 +2,10 @@
 import type { Theme } from '@mui/material/styles'
 
 // Type Imports
-import type { VerticalNavState } from '@menu/contexts/verticalNavContext'
+import type { VerticalNavState } from '../../../app/asvoria/src/@menu/contexts/verticalNavContext'
 
 // Util Imports
-import { menuClasses, verticalNavClasses } from '@menu/utils/menuClasses'
+import { menuClasses, verticalNavClasses } from '../../../app/asvoria/src/@menu/utils/menuClasses'
 
 const navigationCustomStyles = (verticalNavOptions: VerticalNavState, theme: Theme) => {
   // Vars

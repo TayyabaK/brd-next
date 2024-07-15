@@ -5,15 +5,15 @@ import type { ReactNode } from 'react'
 import { createContext, useMemo, useState } from 'react'
 
 // Type Imports
-import type { Mode, Skin, Layout, LayoutComponentWidth, DemoName } from '@core/types'
+import type { Mode, Skin, Layout, LayoutComponentWidth, DemoName } from '../types'
 
 // Config Imports
-import themeConfig from '@configs/themeConfig'
-import demoConfigs from '@configs/demoConfigs'
-import primaryColorConfig from '@configs/primaryColorConfig'
+import themeConfig from '../../app/asvoria/src/configs/themeConfig'
+import demoConfigs from '../../app/asvoria/src/configs/demoConfigs'
+import primaryColorConfig from '../../app/asvoria/src/configs/primaryColorConfig'
 
 // Hook Imports
-import { useObjectCookie } from '@core/hooks/useObjectCookie'
+import { useObjectCookie } from '../hooks/useObjectCookie'
 
 // Settings type
 export type Settings = {

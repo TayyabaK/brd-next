@@ -8,8 +8,8 @@ import type { Settings } from '@core/contexts/settingsContext'
 import type { DemoName, SystemMode } from '@core/types'
 
 // Config Imports
-import themeConfig from '@configs/themeConfig'
-import demoConfigs from '@configs/demoConfigs'
+import themeConfig from '../../app/asvoria/src/configs/themeConfig'
+import demoConfigs from '../../app/asvoria/src/configs/demoConfigs'
 
 export const getDemoName = (): DemoName => {
   const headersList = headers()

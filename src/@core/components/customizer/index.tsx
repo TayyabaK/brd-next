@@ -26,7 +26,6 @@ import PerfectScrollbar from 'react-perfect-scrollbar'
 // Type Imports
 import type { Settings } from '@core/contexts/settingsContext'
 import type { Direction } from '@core/types'
-import type { PrimaryColorConfig } from '@configs/primaryColorConfig'
 
 // Icon Imports
 import SkinDefault from '@core/svg/SkinDefault'
@@ -40,7 +39,8 @@ import DirectionLtr from '@core/svg/DirectionLtr'
 import DirectionRtl from '@core/svg/DirectionRtl'
 
 // Config Imports
-import primaryColorConfig from '@configs/primaryColorConfig'
+import primaryColorConfig from '../../../app/asvoria/src/configs/primaryColorConfig'
+import { PrimaryColorConfig } from '../../../app/asvoria/src/configs/primaryColorConfig'
 
 // Hook Imports
 import { useSettings } from '@core/hooks/useSettings'

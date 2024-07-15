@@ -18,7 +18,7 @@ const Nav = () => {
         <Link href='/portfolio'>Our Work</Link>
       </li>
       <li>
-        <Link href='/asvoria/src/app'>Asvoria</Link>
+        <Link href='asvoria\src\components\layout\horizontal'>Asvoria</Link>
       </li>
       <li>
         <Link href='/contact'>Contact</Link>
