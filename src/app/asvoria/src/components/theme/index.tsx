@@ -27,10 +27,10 @@ import type { ChildrenType, Direction, SystemMode } from '@core/types'
 import ModeChanger from './ModeChanger'
 
 // Config Imports
-import themeConfig from '@configs/themeConfig'
+import themeConfig from '../../configs/themeConfig'
 
 // Hook Imports
-import { useSettings } from '@core/hooks/useSettings'
+import { useSettings } from '../../../../../@core/hooks/useSettings'
 
 // Core Theme Imports
 // import defaultCoreTheme from '@core/theme'

@@ -1824,5 +1824,269 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": null
+  },
+  {
+    "id": 52,
+    "portfolioImage": "/images/portfolio/trypto/trypto.png",
+    "image": "/images/portfolio/trypto/trypto.png",
+    "title": "Trypto Technologies",
+    "subtitle": "TRYPTO TECHNOLOGIES",
+    "date": "",
+    "client": "TRYPTO TECHNOLOGIES",
+    "category": "Website (Wordpress)",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "http://www.tryptotechnologies.com/"
+    },
+    "largeImage": "/images/portfolio/trypto/trypto.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 53,
+    "portfolioImage": "/images/portfolio/logan/logan.png",
+    "image": "/images/portfolio/logan/logan.png",
+    "title": "Logan Token",
+    "subtitle": "LOGAN TOKEN",
+    "date": "",
+    "client": "LOGAN TOKEN",
+    "category": "Website (Wordpress)",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "http://www.logantoken.com/"
+    },
+    "largeImage": "/images/portfolio/logan/logan.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 54,
+    "portfolioImage": "/images/portfolio/drone/drone.png",
+    "image": "/images/portfolio/drone/drone.png",
+    "title": "Project Drone",
+    "subtitle": "PROJECT DRONE",
+    "date": "",
+    "client": "PROJECT DRONE",
+    "category": "Website (Wordpress)",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "http://projectdrone.io/"
+    },
+    "largeImage": "/images/portfolio/drone/drone.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 55,
+    "portfolioImage": "/images/portfolio/cannabis/cannabis.png",
+    "image": "/images/portfolio/cannabis/cannabis.png",
+    "title": "Cannabis Miners Club",
+    "subtitle": "CANNABIS MINERS CLUB",
+    "date": "",
+    "client": "CANNABIS MINERS CLUB",
+    "category": "Website (Wordpress)",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "https://cannabisminersclubweb.netlify.app"
+    },
+    "largeImage": "/images/portfolio/cannabis/cannabis.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 56,
+    "portfolioImage": "/images/portfolio/Pdoge/Pdoge.png",
+    "image": "/images/portfolio/Pdoge/Pdoge.png",
+    "title": "Pomer Doge",
+    "subtitle": "POMER DOGE",
+    "date": "",
+    "client": "POMER DOGE",
+    "category": "Dashboard",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "https://admin-pomerdoge.surge.sh/#/dashboard"
+    },
+    "largeImage": "/images/portfolio/Pdoge/Pdoge.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 57,
+    "portfolioImage": "/images/portfolio/Pdoge/Pdoge2.png",
+    "image": "/images/portfolio/Pdoge/Pdoge2.png",
+    "title": "Pomer Doge User Dashboard",
+    "subtitle": "POMER DOGE",
+    "date": "",
+    "client": "POMER DOGE",
+    "category": "Dashboard",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "https://admin-pomerdoge.surge.sh/#/dashboard"
+    },
+    "largeImage": "/images/portfolio/Pdoge/Pdoge.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 58,
+    "portfolioImage": "/images/portfolio/terramater2/terramater.png",
+    "image": "/images/portfolio/terramater2/terramater.png",
+    "title": "Terra Mater",
+    "subtitle": "TERRA MATER",
+    "date": "",
+    "client": "TERRA MATER",
+    "category": "Dashboard",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "https://tm-dashboard.surge.sh/auth/sign-in"
+    },
+    "largeImage": "/images/portfolio/terramater2/terramater.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
+  },
+  {
+    "id": 59,
+    "portfolioImage": "/images/portfolio/shtoken/shtoken.png",
+    "image": "/images/portfolio/shtoken/shtoken.png",
+    "title": "Sh Token ",
+    "subtitle": "SH TOKEN",
+    "date": "",
+    "client": "SH TOKEN",
+    "category": "Solana",
+    "awards": [""],
+    "excerpt": "",
+    "body": [
+      "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec odio eu metus dignissim viverra ut vel felis. Nullam ligula sem, eleifend et nibh non, posuere blandit odio. Vestibulum laoreet metus ac imperdiet placerat. Nulla mollis gravida velit. Vestibulum dui odio, elementum sit amet dui et, ornare rhoncus leo. Nulla sagittis massa vitae magna fringilla, ut cursus nibh efficitur. Etiam nec dui feugiat, congue nisl et, luctus nisi. Pellentesque nibh erat, laoreet eu finibus vel, elementum vitae velit. Phasellus magna ex, eleifend ac varius molestie, vulputate non mi. Vestibulum eu dictum sapien. Etiam sem elit, gravida a dictum et, malesuada eu dui. Fusce sagittis nunc nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Project",
+      "link": "https://explorer.solana.com/address/ntwSm8uoxQUu4FM4or5qSMVoGT6BKYTRwqpFcSG6ucv"
+    },
+    "largeImage": "/images/portfolio/shtoken/shtoken.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": null
   }
 ]

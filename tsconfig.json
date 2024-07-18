@@ -41,7 +41,9 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/@core/tailwind/plugin.js"
+    "src/@core/tailwind/plugin.js",
+    "src/app/asvoria/src/components/layout/horizontal/HorizontalMenu.tsx",
+    "src/app/asvoria/src/app/page.tsx"
   ],
   "exclude": ["node_modules"]
 }

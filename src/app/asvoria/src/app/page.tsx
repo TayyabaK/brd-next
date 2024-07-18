@@ -4,6 +4,7 @@ import { Button, ButtonProps, Grid, Typography, styled } from '@mui/material'
 
 import { useRouter } from 'next/navigation'
 import FAQ from '../views/faq'
+import LayoutWrapper from '../@layouts/LayoutWrapper'
 
 // import FAQ from '@/views/faq'
 
